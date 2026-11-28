@@ -1,0 +1,11 @@
+{
+  "name": "萌僵打工防线",
+  "short_name": "萌僵防线",
+  "lang": "zh-CN",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0B1020",
+  "theme_color": "#0B1020",
+  "start_url": "./index.html",
+  "scope": "./"
+}
